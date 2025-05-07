@@ -1,0 +1,36 @@
+{
+  "name": "white-rabbit-theme",
+  "displayName": "White Rabbit Dark Theme",
+  "description": "A Matrix-inspired theme with neon green on black aesthetics",
+  "version": "0.0.1",
+  "publisher": "personal",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "White Rabbit Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/WhiteRabbitDark-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/matrix-white-rabbit-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "matrix",
+    "green",
+    "white rabbit",
+    "neon"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
